@@ -7,6 +7,6 @@ My interests (among many other things) are;
 * Blender addon scriping
 * AR / VR
 * Photogrammetry
-* NeRf
+* NeRF
 * AI
 * etc.
